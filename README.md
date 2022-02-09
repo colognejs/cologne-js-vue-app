@@ -1,6 +1,19 @@
-# cologne-js-vue-app
+# Cologne.js Vue app
 
-This template should help get you started developing with Vue 3 in Vite.
+This repo contains the front end Vue application for the [Cologne.js](https://colognejs.dev) meetup and its website. This is a community driven project that everybody can contribute to.
+
+## Stack
+
+- [Vue.js 3](https://vuejs.org)
+- [Vite](https://vitejs.dev)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [TypeScript](https://www.typescriptlang.org)
+- [Statamic CMS](https://statamic.com) (headless mode via its [Content REST API](https://statamic.dev/rest-api))
+- [Cypress](https://www.cypress.io)
+- [Netlify](https://www.netlify.com)
+- [Prettier](https://prettier.io)
+- [ESLint](https://eslint.org)
+- [Fathom Analytics](https://usefathom.com/ref/J0TESN)
 
 ## Recommended IDE Setup
 
